@@ -3,5 +3,5 @@ git is free software.
 
 git is a distributed version control system.
 
-git tracks changes.
+git tracks changes two.
 create license file.
